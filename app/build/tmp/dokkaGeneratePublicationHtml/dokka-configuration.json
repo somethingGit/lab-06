@@ -1,0 +1,180 @@
+{
+  "moduleName": "app",
+  "moduleVersion": null,
+  "outputDir": "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/build/dokka/html",
+  "cacheRoot": null,
+  "offlineMode": false,
+  "sourceSets": [
+    {
+      "displayName": "release",
+      "sourceSetID": {
+        "scopeId": ":app",
+        "sourceSetName": "release"
+      },
+      "classpath": [
+        "/Volumes/Samsung_External_SSD/Applications/Code/Jetbrains macOS/platforms/android-37.0/android.jar",
+        "/Volumes/Samsung_External_SSD/Applications/Code/Jetbrains macOS/build-tools/36.0.0/core-lambda-stubs.jar",
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/build/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e7813217ce3d6d7c4c3ed46f661ca553/transformed/activity-1.13.0-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/07bef51ab35ba6a50d3313670caeb0c4/transformed/activity-compose-1.13.0-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/839ae8f0a4dd5d3e88af4b3fc9a7b310/transformed/core-1.19.1-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/fa932eb6bd7533dea4078c6feea7a82e/transformed/material3-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c29fe25c52994724a0d4431052f3f28a/transformed/ui-util-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e3bc0a458cd90d517b084ddacab642b8/transformed/ui-unit-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/1a0efc95f9c66a7bc63576fef1ebb0ae/transformed/foundation-layout-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/cd3cd76832d3fa4c573150a5c4ab02b5/transformed/material-ripple-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/b70382342593e4542e4beb0bdc4d2173/transformed/foundation-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e7d57ad8d54455928d0e3308feb8afce/transformed/animation-core-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/efe4ca8605cf5f6daeca1cc2dcc52810/transformed/animation-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/11045640f7f1329083b51df95fe4db8d/transformed/ui-geometry-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/ba579f64bfe1f8cb883fdf32ea3837c4/transformed/ui-text-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/4a17b9a60e4ae92ca9749eba456fd833/transformed/ui-tooling-preview-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/f7e8b19936ee3b7ceb955380dc66ce63/transformed/ui-graphics-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c20dd79cc931565e7de3de5bdc403767/transformed/ui-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/9bb4f3e65103f68b0b34b592a0b3a01c/transformed/lifecycle-livedata-core-2.11.0-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/60bb31d4fef1a6f876bbe30191d751d6/transformed/lifecycle-runtime-compose-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/7b80d7c8fac5fc1b99eede271add5756/transformed/lifecycle-viewmodel-api.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-jvm/2.11.0/2c4f7d92f1fd723121d394c93455f50158403ad9/lifecycle-common-jvm-2.11.0.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c00dcdf2d86c3f14934e002f7cf0b938/transformed/lifecycle-runtime-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/48595fabae567935cafc1bad9cb1a166/transformed/lifecycle-runtime-ktx-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/50df4ead9d0081dfe8697c0198b73ec8/transformed/lifecycle-viewmodel-savedstate-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/2e501df01479df306bfb6edeb3c45503/transformed/core-ktx-1.19.1-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/a180c8d8777e5a80cdcc1eaff86b93e6/transformed/core-viewtree-1.0.0-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/4ec739433d1e476abfd92a823d5ce77d/transformed/navigationevent-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/83a314383ae7aa15f7b26d4ac1bbddf2/transformed/navigationevent-compose-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e65af90aacb0dc2cb9e41f6c3fd18655/transformed/savedstate-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/72015fcbe989745a62bd2d11c075c313/transformed/runtime-retain-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/1b5f773764fe66cf23c1fdef421c2839/transformed/runtime-annotation-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/ee1105e5d3ce1c950ec4c31d36899515/transformed/runtime-saveable-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/4dd3717eaaf484bc013716d427d65f53/transformed/savedstate-compose-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/2da8c56f6830d227271d2569ebb724ff/transformed/runtime-api.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/abb45aa9b9941f633660f85b2b2df813/transformed/annotation-experimental-1.4.1-api.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0/9beade4c1c1569e4f36cbd2c37e02e3e41502601/kotlinx-coroutines-core-jvm-1.9.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.9.0/6cf3b8df5a2ce8c6b0dffe55657a827c405ee2fe/kotlinx-coroutines-android-1.9.0.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/ccdcf536a1c2e0199de5268aa81f2882/transformed/versionedparcelable-1.1.1-api.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.5.0/7ba2c69414d46ebc2dd76598bdd0a75c54281a57/collection-jvm-1.5.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.10.0/388cfaa79001d0f024d28f6a13d5a3dfc2f0e18f/annotation-jvm-1.10.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.7.3/1f226780b845ff9206474c05159245d861556249/kotlinx-serialization-core-jvm-1.7.3.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.10/30de6faa127a4a012db8e71bf1b9c0a99b1402b2/kotlin-stdlib-2.2.10.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar",
+        "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/f9c05bfe24d6ec9e9685d5178b081158/transformed/activity-1.13.0/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/4c7dbb9f13b68be5f88ab374ec70a3b5/transformed/activity-compose-1.13.0/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e7ab8ea32750ff0fda1e1b23f70526b5/transformed/core-1.19.1/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/2bb557644280798c53581cb951f18f0d/transformed/material3/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/02297bbec33f56201babe3ccf8f2a4ee/transformed/ui-util/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/6397b7c4e66facb6efc622de96592c8e/transformed/ui-unit/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/3c79dc0caee1675b3962c1f7ccfe975d/transformed/foundation-layout/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/830064ef66228ab8fab276f24df1205b/transformed/material-ripple/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/4d1ac247e4e19badc9f20300cf40ef8b/transformed/foundation/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c51df7e0e723c84e4f6768d8e6659034/transformed/animation-core/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/dc4b42d26792f07404397242dd708e35/transformed/animation/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/e0484bd4c123f5ecba213c1fe03d8aa0/transformed/ui-geometry/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/f640d6721e943b07844de3200ccff77d/transformed/ui-text/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c89fc8269a79123ad46ddb378f4e389d/transformed/ui-tooling-preview/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/a69911c3df723a1e8e3fec2f6f4acffb/transformed/ui-graphics/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/f70164d22ffe69da7432e14d733b54c1/transformed/ui/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/a5c3eb1dc2f2cd2ceb4b9bb0d3f39f94/transformed/lifecycle-livedata-core-2.11.0/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/831c534230f552f9dbe0ab7f875126e5/transformed/lifecycle-runtime-compose/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/c1064331d037c06b635aa06e16c462e0/transformed/lifecycle-viewmodel/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/81195bbda8b015921a538d3065f1fe1c/transformed/lifecycle-runtime/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/2f99257d27955f4d7df0b92a814971be/transformed/lifecycle-runtime-ktx/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/0cd20782f8592fd7423a60716b37c901/transformed/lifecycle-viewmodel-savedstate/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/19288e93db87242857f7b7879e710353/transformed/core-ktx-1.19.1/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/723db278901184f5ad70dc007cfbb783/transformed/core-viewtree-1.0.0/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/7bce14f0509ebb2c29657d27068a4984/transformed/navigationevent/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/da1b07d8283377b5e4c9c9ef0c1af0d3/transformed/navigationevent-compose/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/40c83513403603b0eed7a3d4ffbbffad/transformed/savedstate/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/9b93517275b4a9a6624c00db611cd583/transformed/runtime-retain/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/3d167324d39d3e2cd2d0a73f3dfadcfd/transformed/runtime-annotation/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/2f01c3d5bb94530c9141cf65e2e4d207/transformed/runtime-saveable/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/3a9112d061a1a88ca82168ed4f25397b/transformed/savedstate-compose/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/d0b6800f3f1136f9a61dab4523b3a38f/transformed/runtime/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/8422452a2e42663165a132a7928ff128/transformed/annotation-experimental-1.4.1/jars/classes.jar",
+        "/Users/jtse1/.gradle/caches/9.5.0/transforms/6f1844fee6b8bb82f5252a2684675542/transformed/versionedparcelable-1.1.1/jars/classes.jar"
+      ],
+      "sourceRoots": [
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/src/main/java",
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/src/main/kotlin",
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/src/release/java",
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/src/release/kotlin"
+      ],
+      "dependentSourceSets": [
+      ],
+      "samples": [
+      ],
+      "includes": [
+      ],
+      "includeNonPublic": false,
+      "reportUndocumented": false,
+      "skipEmptyPackages": true,
+      "skipDeprecated": false,
+      "jdkVersion": 11,
+      "sourceLinks": [
+      ],
+      "perPackageOptions": [
+      ],
+      "externalDocumentationLinks": [
+        {
+          "url": "https://developer.android.com/reference/kotlin/",
+          "packageListUrl": "https://developer.android.com/reference/kotlin/package-list"
+        },
+        {
+          "url": "https://developer.android.com/reference/kotlin/",
+          "packageListUrl": "https://developer.android.com/reference/kotlin/androidx/package-list"
+        },
+        {
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/",
+          "packageListUrl": "https://docs.oracle.com/en/java/javase/11/docs/api/element-list"
+        },
+        {
+          "url": "https://kotlinlang.org/api/core/",
+          "packageListUrl": "https://kotlinlang.org/api/core/package-list"
+        }
+      ],
+      "languageVersion": null,
+      "apiVersion": null,
+      "noStdlibLink": false,
+      "noJdkLink": false,
+      "suppressedFiles": [
+        "/Volumes/Samsung_External_SSD/Documents/GitHub (MacOs)/lab-06/app/build/generated"
+      ],
+      "analysisPlatform": "jvm",
+      "documentedVisibilities": [
+        "PUBLIC"
+      ]
+    }
+  ],
+  "pluginsClasspath": [
+    "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.dokka/templating-plugin/2.2.0/c3c13a48444b9c22e5286e88581ce0334e25352d/templating-plugin-2.2.0.jar",
+    "/Users/jtse1/.gradle/caches/modules-2/files-2.1/org.jetbrains.dokka/dokka-base/2.2.0/84b0c641ea99d74ba3e251b6a0e33c5ead8d4312/dokka-base-2.2.0.jar"
+  ],
+  "pluginsConfiguration": [
+    {
+      "fqPluginName": "org.jetbrains.dokka.base.DokkaBase",
+      "serializationFormat": "JSON",
+      "values": "{\"customAssets\":[],\"customStyleSheets\":[],\"separateInheritedMembers\":false,\"mergeImplicitExpectActualDeclarations\":false}"
+    },
+    {
+      "fqPluginName": "org.jetbrains.dokka.kotlinPlaygroundSamples.KotlinPlaygroundSamplesPlugin",
+      "serializationFormat": "JSON",
+      "values": "{}"
+    },
+    {
+      "fqPluginName": "org.jetbrains.dokka.versioning.VersioningPlugin",
+      "serializationFormat": "JSON",
+      "values": "{\"olderVersions\":[],\"olderVersionsDirName\":\"older\",\"renderVersionsNavigationOnAllPages\":true}"
+    }
+  ],
+  "modules": [
+  ],
+  "failOnWarning": false,
+  "delayTemplateSubstitution": false,
+  "suppressObviousFunctions": true,
+  "includes": [
+  ],
+  "suppressInheritedMembers": false,
+  "finalizeCoroutines": false
+}
